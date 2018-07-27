@@ -1,2 +1,2 @@
 # Dosepy-QA
-Herramienta para prueba del índice gamma con pelícua radiocrómica.
+Herramienta para prueba del índice gamma con película radiocrómica.
