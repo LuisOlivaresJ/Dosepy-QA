@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/LuisOlivaresJ/Dosepy-QA/blob/master/Logo_Dosepy.png" alt="fastlane Logo" height="2" width="2"/>
+  <img src="https://github.com/LuisOlivaresJ/Dosepy-QA/blob/master/Logo_Dosepy.png" alt="fastlane Logo" height="22" width="22"/>
 </h3>
 
 
