@@ -3,5 +3,5 @@
 </h3>
 
 
-# Dosepy-QA
+# Dosepy
 Interface gráfica para comparación de distribuciones de dosis mediante perfiles e índice gamma.
