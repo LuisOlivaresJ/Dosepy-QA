@@ -4,4 +4,4 @@
 
 
 # Dosepy-QA
-Herramienta para prueba del índice gamma con película radiocrómica.
+Interface gráfica para comparación de distribuciones de dosis mediante perfiles e índice gamma.
