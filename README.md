@@ -4,4 +4,4 @@
 
 
 # Dosepy
-Interface gráfica para comparación de distribuciones de dosis mediante perfiles e índice gamma.
+Interface gráfica para comparación de distribuciones de dosis usadas en radioterapia mediante perfiles e índice gamma.
